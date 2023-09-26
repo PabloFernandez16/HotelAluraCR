@@ -61,8 +61,8 @@ public class Login extends JFrame {
 		Usuario usuario = new Usuario("admin","admin");
 		listaUsuarios.add(usuario);
 		
-		//---------------------------------------------
-		// ---------------------------------------------
+		// ------------------------------------------------------------------------------------------
+		// ------------------------------------------------------------------------------------------
 		setResizable(false);
 		setUndecorated(true);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
