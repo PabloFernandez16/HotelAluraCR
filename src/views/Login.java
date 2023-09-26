@@ -62,6 +62,7 @@ public class Login extends JFrame {
 		listaUsuarios.add(usuario);
 		
 		//---------------------------------------------
+		// ---------------------------------------------
 		setResizable(false);
 		setUndecorated(true);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
